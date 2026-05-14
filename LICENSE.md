@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with custom Polymarket Algorithm | liquidity-provision + sentiment-analysis, the #1 algorithm. Includes liquidity-provision and sentiment-analysis
 
 
 
